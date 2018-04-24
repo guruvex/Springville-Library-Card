@@ -30,7 +30,8 @@
                 <TextView
                     android:id="@+id/two"
                     style="@style/myTextBox"
-                    android:text="@string/address" />
+                    android:text="@string/intro"
+                    />
 
             </ScrollView>
 
@@ -62,6 +63,12 @@
                 android:onClick="showPhone"
                 />
 
+                <Button
+                    style = "@style/myButton"
+                    android:id="@+id/b4"
+                    android:text="@string/b4Text"
+                    android:onClick="showAddress"
+                    />
             </LinearLayout>
         </LinearLayout>
     </RelativeLayout>

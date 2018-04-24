@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">SpringvilleLibrary</string>
 
+    <string name="intro">Welcome to the springville libaray app, come visit us</string>
     <string name="address">45 S Main St, Springville, UT 84663</string>
     <string name="webSite">https://www.springville.org/library/</string>
     <string name="phone">(801) 489-2720</string>
@@ -11,5 +12,6 @@
     <string name="b1Text">Phone</string>
     <string name="b2Text">Web</string>
     <string name="b3Text">Time</string>
+    <string name="b4Text">Address</string>
 
 </resources>
